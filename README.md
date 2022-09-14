@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhinavmishra18
-- 👀 I’m interested in web development and Artificial intelligence
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
